@@ -1,0 +1,3 @@
+Testanto para criar documentos
+Aquivo da aula de Git e GitHub
+Teste 1 para verificar status do arquivo no git
