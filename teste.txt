@@ -5,3 +5,4 @@ teste 2 pra verificar status
 teste 3 para verificar diff
 Documento feito para teste com git e git hub
 Textando teste de mudanças e push via bash
+testando gitignore
